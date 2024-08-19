@@ -1,0 +1,8 @@
+.DS_Store
+
+dist
+vendor
+
+CACHE
+!internal/cache
+session.json
